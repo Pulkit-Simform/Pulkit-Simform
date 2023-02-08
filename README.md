@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pulkit Sharma</h1>
-<h3 align="center">A passionate FullStack Developer</h3>
+<h3 align="center">Sic Mundus Creatus Est</h3>
 
 - 🌱 I’m currently learning **JavaScript in Depth**
 
